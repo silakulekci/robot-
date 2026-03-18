@@ -139,15 +139,6 @@ Find frontiers (unknown cells bordering free cells)
 
 ---
 
-## Built With
 
-- HTML5 Canvas — rendering
-- Vanilla JavaScript — all logic, no external libraries
-
----
-
-## References
-
-- Thrun, S., Burgard, W., Fox, D. — *Probabilistic Robotics* (2005)
 - Yamauchi, B. — *A Frontier-Based Approach for Autonomous Exploration* (1997)
 - Bresenham, J. — *Algorithm for computer control of a digital plotter* (1965)
