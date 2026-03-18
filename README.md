@@ -139,6 +139,3 @@ Find frontiers (unknown cells bordering free cells)
 
 ---
 
-
-- Yamauchi, B. — *A Frontier-Based Approach for Autonomous Exploration* (1997)
-- Bresenham, J. — *Algorithm for computer control of a digital plotter* (1965)
